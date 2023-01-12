@@ -8,5 +8,7 @@
     <button>!! WIN IPHONE 14 !!</button>
 </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats-scube19.vercel.app/api?username=SCube19&count_private=true&theme=radical)](https://github.com/SCube19/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats-scube19.vercel.app/api?username=SCube19&count_private=true&theme=radical&show_icons=true&bg_color=FF00FF0A">
+<img src="https://github-readme-stats-scube19.vercel.app/api/top-langs?username=SCube19&count_private=true&theme=radical&show_icons=true&bg_color=FF00FF0A&layout=compact&langs_count=10"></p>
+
 </div>
