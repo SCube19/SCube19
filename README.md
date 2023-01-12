@@ -8,7 +8,8 @@
     <button>!! WIN IPHONE 14 !!</button>
 </a>
 </p>
-<p align="center"><img src="https://github-readme-stats-scube19.vercel.app/api?username=SCube19&count_private=true&theme=radical&show_icons=true&bg_color=FF00FF0A">
-<img src="https://github-readme-stats-scube19.vercel.app/api/top-langs?username=SCube19&count_private=true&theme=radical&show_icons=true&bg_color=FF00FF0A&layout=compact&langs_count=10"></p>
+<p align="center"><img align="bottom" src="https://github-readme-stats-scube19.vercel.app/api/top-langs?username=SCube19&count_private=true&theme=radical&show_icons=true&bg_color=FF00FF0A&layout=compact&langs_count=10"> <img align="bottom" src="https://github-readme-stats-scube19.vercel.app/api?username=SCube19&count_private=true&theme=radical&show_icons=true&bg_color=FF00FF0A"></p>
+
+<a href="https://leetcode.com/JacobLinCool"><p align="center"><img src="https://leetcard.jacoblin.cool/SCube19?ext=activity&theme=nord&width=850"></p></a> 
 
 </div>
